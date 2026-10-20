@@ -1,0 +1,5 @@
+.env
+.git
+.gitignore
+storage/
+**/node_modules/
